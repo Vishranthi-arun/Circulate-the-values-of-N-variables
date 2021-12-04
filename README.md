@@ -29,7 +29,7 @@ def circulate():
    print("After circulating the values are:",result)
 ```
 ## Output:
-![OUTPUT](./Ex02.JPG)
+![OUTPUT](./Ex02.jpg)
 
 ## Result:
 Thus the circulating of N variables are successfully executed.
